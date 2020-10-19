@@ -1,0 +1,11 @@
+C:\Users\Никита\Desktop\derevo\derevo\obj\Debug\netcoreapp3.1\derevo.csprojAssemblyReference.cache
+C:\Users\Никита\Desktop\derevo\derevo\obj\Debug\netcoreapp3.1\derevo.AssemblyInfoInputs.cache
+C:\Users\Никита\Desktop\derevo\derevo\obj\Debug\netcoreapp3.1\derevo.AssemblyInfo.cs
+C:\Users\Никита\Desktop\derevo\derevo\bin\Debug\netcoreapp3.1\derevo.exe
+C:\Users\Никита\Desktop\derevo\derevo\bin\Debug\netcoreapp3.1\derevo.deps.json
+C:\Users\Никита\Desktop\derevo\derevo\bin\Debug\netcoreapp3.1\derevo.runtimeconfig.json
+C:\Users\Никита\Desktop\derevo\derevo\bin\Debug\netcoreapp3.1\derevo.runtimeconfig.dev.json
+C:\Users\Никита\Desktop\derevo\derevo\bin\Debug\netcoreapp3.1\derevo.dll
+C:\Users\Никита\Desktop\derevo\derevo\bin\Debug\netcoreapp3.1\derevo.pdb
+C:\Users\Никита\Desktop\derevo\derevo\obj\Debug\netcoreapp3.1\derevo.dll
+C:\Users\Никита\Desktop\derevo\derevo\obj\Debug\netcoreapp3.1\derevo.pdb
